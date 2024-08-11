@@ -1,7 +1,3 @@
-Here’s an updated README file that instructs users to run the `watch-me.sh` script instead of using Docker Compose:
-
----
-
 # Watch Me
 
 ## Project Overview
