@@ -118,4 +118,3 @@ sudo systemctl start prometheus node_exporter cadvisor grafana-server
 
 echo "Installation complete. Please check the status of the services to ensure they are running correctly."
 
-sudo chmod +x watch-me.sh
