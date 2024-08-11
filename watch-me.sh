@@ -12,8 +12,8 @@ echo "
 "
 
 # Update and install dependencies
-apt-get update
-apt-get install -y wget curl tar adduser libfontconfig1
+sudo apt-get update
+sudo apt-get install -y wget curl tar adduser libfontconfig1
 
 # Create users
 sudo adduser --system --group --no-create-home prometheus
